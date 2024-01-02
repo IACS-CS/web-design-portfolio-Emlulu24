@@ -3,3 +3,8 @@ body {
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
   line-height: 1.4;
 }
+
+main {
+  background-color: #6E9075;
+  color: antiquewhite;
+}
