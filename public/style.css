@@ -1,16 +1,12 @@
-@import url(<link href="https://fonts.googleapis.com/css2?family=Cairo+Play&family=Grenze+Gotisch:wght@100&family=Grenze:wght@100&display=swap">)
+@import url("https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&family=Rubik+Glitch&display=swap");
 
-body {
-  /* Change to something you like, but please do customize the font! */
-  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
-  line-height: 1.4;
-}
 
 main {
-  background-color: #393838;
-  font-family: 'Cairo Play', sans-serif;
+  background-color: #d3cac1;
+  font-family: 'Gloria Hallelujah', cursive;
+  font-size: x-large;
 }
 
 .info {
-  background-color: #393838;
+  background-color: #d3cac1;
 }
