@@ -1,5 +1,17 @@
 @import url("https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&family=Rubik+Glitch&display=swap");
 
+.page-wrapper {
+  display: grid;
+  grid-template-areas:
+    "box1     box1"
+    "box2     menu"
+    "box3     menu"
+    "box4     menu"
+    "box5     menu"
+    "box6     menu";
+  row-gap: 15px;
+  column-gap:10px;
+}
 
 main {
   background-color: #d3cac1;
@@ -9,4 +21,6 @@ main {
 
 .info {
   background-color: #d3cac1;
+  font-size: medium;
+  
 }
