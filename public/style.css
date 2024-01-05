@@ -14,12 +14,15 @@
 }
 
 main {
+
   background-color: #d3cac1;
   font-family: 'Gloria Hallelujah', cursive;
   font-size: x-large;
 }
 
 .info {
+  grid-area: box1;
+  padding: 10px;
   background-color: #d3cac1;
   font-size: medium;
   
