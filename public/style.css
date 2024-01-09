@@ -13,8 +13,11 @@
   column-gap:10px;
 }
 
-main {
+body{
+  background-color: black;
+}
 
+main {
   background-color: #d3cac1;
   font-family: 'Gloria Hallelujah', cursive;
   font-size: x-large;
@@ -25,5 +28,4 @@ main {
   padding: 10px;
   background-color: #d3cac1;
   font-size: medium;
-  
 }
