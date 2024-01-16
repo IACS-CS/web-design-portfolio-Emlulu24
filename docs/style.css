@@ -13,14 +13,21 @@
   column-gap:10px;
 }
 
-body {
-  background-color: black;
-}
-
 main {
+ 
   background-color: #d3cac1;
   font-family: 'Gloria Hallelujah', cursive;
   font-size: x-large;
+}
+
+button {
+  width:200px;
+  length:200px;
+  font-size:xx-large;
+}
+
+.body {
+  background-color: #d3cac1;
 }
 
 .info {
@@ -30,6 +37,11 @@ main {
   font-size: medium;
 }
 
-.about {
-  
- }
+.sample-work {
+  padding: 50px;
+}
+
+.hero {
+  color: rgb(83, 213, 115);
+  font-size:150px;
+}
