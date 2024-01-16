@@ -1,0 +1,46 @@
+@import url("https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&family=Rubik+Glitch&display=swap");
+
+.page-wrapper {
+  display: grid;
+  grid-template-areas:
+    "box1     box1"
+    "box2     menu"
+    "box3     menu"
+    "box4     menu"
+    "box5     menu"
+    "box6     menu";
+  row-gap: 15px;
+  column-gap:10px;
+}
+
+main {
+ 
+  background-color: #d3cac1;
+  font-family: 'Gloria Hallelujah', cursive;
+  font-size: x-large;
+}
+
+button {
+  width:200px;
+  font-size:xx-large;
+}
+
+.body {
+  background-color: #d3cac1;
+}
+
+.info {
+  grid-area: box1;
+  padding: 10px;
+  background-color: #d3cac1;
+  font-size: medium;
+}
+
+.sample-work {
+  padding: 50px;
+}
+
+.hero {
+  color: rgb(83, 213, 115);
+  font-size:150px;
+}
